@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamoda Pramudika</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamoda01&label=Profile%20views&color=0e75b6&style=flat" alt="chamoda01" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamoda01&label=Profile%20views&color=0e75b6&style=flat" alt="chamoda01" /> </p> -->
 
 - 🌱 I’m currently student at **CSE | University Of Moratuwa**
 
