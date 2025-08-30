@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamoda Pramudika</h1>
-<h3 align="center"> Third Year Computer Science Engineering Student | DevOps & Cloud Enthusiast</h3>
+<h3 align="center"> Computer Science Engineering Undergraduate | DevOps & Cloud Enthusiast</h3>
 
 ### 💻 What I'm Up To  
 - Building **MERN and Spring Boot applications** with real-world use cases  
